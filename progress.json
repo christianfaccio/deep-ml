@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T18:16:21.106Z",
+  "generated_at": "2026-10-27T18:17:44.676Z",
   "items": {
     "problem:15": {
       "kind": "problem",
@@ -23,9 +23,9 @@
       "url": "https://www.deep-ml.com/problems/16",
       "path": "problems/0016-feature-scaling-implementation",
       "first_solved_at": "2026-10-27T18:16:20.316Z",
-      "last_pushed_at": "2026-10-27T18:16:20.316Z",
+      "last_pushed_at": "2026-10-27T18:17:43.944Z",
       "language": "python",
-      "lines": 21
+      "lines": 14
     }
   }
 }
