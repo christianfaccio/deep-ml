@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**10** solved · 10 problems · 0 labs · 0 math
+**11** solved · 11 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Precision-Recall Curve](https://www.deep-ml.com/problems/278) | medium | 2026-10-29 | [solution](problems/0278-implement-precision-recall-curve) |
 | [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-11-06 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-10-28 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
+| [Top-3 Salaries Per Department](https://www.deep-ml.com/problems/1111) | medium | 2026-11-06 | [solution](problems/1111-top-3-salaries-per-department) |
 
 ---
 
