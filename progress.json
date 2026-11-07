@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T23:00:06.512Z",
+  "generated_at": "2026-11-07T07:54:35.935Z",
   "items": {
     "problem:15": {
       "kind": "problem",
@@ -167,6 +167,19 @@
       "path": "problems/1114-rank-rows-within-partitions-using-window-functions",
       "first_solved_at": "2026-11-06T23:00:05.771Z",
       "last_pushed_at": "2026-11-06T23:00:05.771Z",
+      "language": "sql",
+      "lines": 6
+    },
+    "problem:1115": {
+      "kind": "problem",
+      "id": "1115",
+      "title": "Month-over-Month Percentage Change with LAG",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1115",
+      "path": "problems/1115-month-over-month-percentage-change-with-lag",
+      "first_solved_at": "2026-11-07T07:54:35.239Z",
+      "last_pushed_at": "2026-11-07T07:54:35.239Z",
       "language": "sql",
       "lines": 6
     }
