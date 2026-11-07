@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 16 problems · 0 labs · 0 math
+**17** solved · 17 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-11-06 | [solution](problems/1109-your-first-join) |
 | [Birthday Problem Probability](https://www.deep-ml.com/problems/246) | medium | 2026-11-06 | [solution](problems/0246-birthday-problem-probability) |
 | [Employees Earning More Than Their Managers](https://www.deep-ml.com/problems/1113) | medium | 2026-11-07 | [solution](problems/1113-employees-earning-more-than-their-managers) |
+| [Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)](https://www.deep-ml.com/problems/1127) | medium | 2026-11-07 | [solution](problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-10-29 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement Precision-Recall Curve](https://www.deep-ml.com/problems/278) | medium | 2026-10-29 | [solution](problems/0278-implement-precision-recall-curve) |
 | [Month-over-Month Percentage Change with LAG](https://www.deep-ml.com/problems/1115) | medium | 2026-11-07 | [solution](problems/1115-month-over-month-percentage-change-with-lag) |
